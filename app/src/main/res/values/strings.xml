@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Review SmartPhone</string>
+    <string name="Spesifikasi">Spesifikasi</string>
+    <string name="Spesifikasi_samsung"> Simetri yang elegan. Desain Ambient Edge yang baru akan terlihat cocok dengan tepian lengkung yang cantik serta bagian belakang bertekstur glossy yang tampak elegan dan nyaman digenggam. </string>
+    <string name="Produksi">From to Japan</string>
+    <string name="price">Harga</string>
+    <string name="harga_samsung">Rp. 3.000.000</string>
+    <string name="Iphone">Iphone x</string>
+    <string name="saran_smartphone">Saran Smartphone</string>
+    <string name="IphoneX">Aroma Karsa</string>
+    <string name="spesifikasiIohonex">"Layar iPhone X memiliki sudut melengkung yang mengikuti desain lekukan yang indah, dan semua sudut ini berada di dalam bidang persegi standar"</string>
+    <string name="produksi">From to china</string>
+    <string name="harga_iphone">Rp. 8.000.000</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="details">details</string>
+    <string name="detailsiphone">detailsiphone</string>
+    <string name="trending">trending</string>
+</resources>
